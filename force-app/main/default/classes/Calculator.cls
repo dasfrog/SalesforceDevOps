@@ -7,3 +7,8 @@ public with sharing class Calculator {
         return a-b;
     }
 }
+    public integer add(integer a,integer b){
+        return a+b+b;
+        //test
+    }
+} 
